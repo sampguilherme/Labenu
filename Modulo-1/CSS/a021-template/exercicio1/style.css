@@ -1,0 +1,19 @@
+#titulo-importante {
+    background-color: blue;
+}
+
+.sub-titulo {
+    background-color: yellow;
+}
+
+section {
+    background-color: green;
+}
+
+.titulo-secao, .titulo-pouco-importante, #titulo-importante{
+    color: white;
+}
+
+.titulo-pouco-importante{
+    background-color: black;
+}
