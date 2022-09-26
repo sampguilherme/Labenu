@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border: 2px solid black;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+main{
+    height: 1000px;
+    border: 1px solid magenta;
+}
+
+footer{
+    border: 1px solid black;
+}

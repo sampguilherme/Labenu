@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 16px;
+    height: 50px;
+    align-items: center;
+    border: 2px solid black;
+    background-color: brown;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    background-color: rgb(13, 90, 90);
+    flex-grow: 1;
+}
+
+footer {
+    background-color: cadetblue;
+}
+
+#magenta {
+    background-color: magenta;
+}
+
+#azul {
+    background-color: blue;
+    flex-grow: 1;
+}
+
+#verde {
+    background-color: green;
+}
+
+#central {
+    display: flex;
+}
+
+#imagens{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+figure{
+    border: 1px solid black;
+    background-color: antiquewhite;
+    padding: 16px;
+}
