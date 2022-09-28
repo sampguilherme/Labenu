@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 10vh 1fr 5vh;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    border: 1px solid black;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 3fr 0.5fr;
+}
+
+.borda{
+    border: 1px solid black;
+}
