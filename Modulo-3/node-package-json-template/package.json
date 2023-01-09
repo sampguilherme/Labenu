@@ -1,0 +1,15 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "Brazil": "node index.js Brazil",
+    "BuscaPorLetra": "node buscaPorLetra.js b",
+    "addCountry": "node addNewCountry.js Brazilandia BR"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
