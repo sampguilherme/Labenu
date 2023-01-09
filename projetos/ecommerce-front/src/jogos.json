@@ -1,0 +1,76 @@
+{
+    "jogos": [
+        {
+            "id": 1,
+            "name": "Minecraft",
+            "image": "https://play-lh.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP",
+            "price": 79.99
+        },
+        {
+            "id": 2,
+            "name": "Grand Theft Auto V",
+            "image": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_400x400_GameLogo-1000x1000-f6c47a98454049a5e63959f7b6f898c4fc22829c.png?h=270&resize=1&w=480",
+            "price": 54.99
+        },
+        {
+            "id": 3,
+            "name": "Counter Strike: Global Offensive",
+            "image": "https://i.pinimg.com/474x/45/73/0b/45730ba3ffe768049af74193fdfd9ecc.jpg",
+            "price": 24.99
+        },
+        {
+            "id": 4,
+            "name": "Ark Survival Evolved",
+            "image": "http://pm1.narvii.com/7966/4ce175d004ce11126b780597b0d6e2b0269eab98r1-520-513v2_00.jpg",
+            "price": 29.99
+        },
+        {
+            "id": 5,
+            "name": "Rainbow Six Siege",
+            "image": "https://i.pinimg.com/564x/d3/8d/a1/d38da105fbfddf19c1678dae90ec1e80.jpg",
+            "price": 36.99
+        },
+        {
+            "id": 6,
+            "name": "Elden Ring",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1805388497208310727/AB9D4CB91EC11A65D191611765711835D63A5937/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+            "price": 0.99
+        },
+        {
+            "id": 7,
+            "name": "Dark Souls III",
+            "image": "https://image.api.playstation.com/cdn/UP0700/CUSA03388_00/v8JlD8KcQUtTqaLBmpFnj1ESRR5zMkLk.png",
+            "price": 79.99
+        },
+        {
+            "id": 8,
+            "name": "God of War",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/God_of_War_2018_capa.png/270px-God_of_War_2018_capa.png",
+            "price": 249.99
+        },
+        {
+            "id": 9,
+            "name": "Hollow knight",
+            "image": "https://i.etsystatic.com/14675880/r/il/ae3381/2200520423/il_570xN.2200520423_6qgf.jpg",
+            "price": 37.99
+        },
+        {
+            "id": 10,
+            "name": "Fall Guys",
+            "image": "https://cdn2.unrealengine.com/fgss3-s09-primary-logo-rgb-1413x1381-da6908f5828e.png?resize=1&w=1920",
+            "price": 0
+        },
+        {
+            "id": 11,
+            "name": "The Last of Us",
+            "image": "https://sm.ign.com/ign_br/cover/t/the-last-o/the-last-of-us-the-series_5vkt.jpg",
+            "price": 99.99
+        },
+        {
+            "id": 12,
+            "name": "The Last of Us PART II",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/9/96/The_Last_of_Us_2_capa.png",
+            "price": 159.99
+        }
+    ]
+}
